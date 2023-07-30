@@ -3,8 +3,9 @@ Repository for the visual classifications for the early CEERS and PRIMER observa
 
 https://arxiv.org/abs/2210.01110
 
-If you use this dataset we kindly ask to reference it as ask:
-@ARTICLE{2022arXiv221001110F,
+If you use this dataset we kindly ask to reference it as:
+
+`@ARTICLE{2022arXiv221001110F,
        author = {{Ferreira}, Leonardo and {Conselice}, Christopher J. and {Sazonova}, Elizaveta and {Ferrari}, Fabricio and {Caruana}, Joseph and {Tohill}, Cl{\'a}r-Br{\'\i}d and {Lucatelli}, Geferson and {Adams}, Nathan and {Irodotou}, Dimitrios and {Marshall}, Madeline A. and {Roper}, Will J. and {Lovell}, Christopher C. and {Verma}, Aprajita and {Austin}, Duncan and {Trussler}, James and {Wilkins}, Stephen M.},
         title = "{The JWST Hubble Sequence: The Rest-Frame Optical Evolution of Galaxy Structure at $1.5 < z < 8$}",
       journal = {arXiv e-prints},
@@ -20,4 +21,4 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv221001110F},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-
+`
