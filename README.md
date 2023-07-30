@@ -1,4 +1,4 @@
-# CEERS_PRIMER_MORPHO
+# CEERS_MORPHO
 Repository for the visual classifications for the early CEERS and PRIMER observations from Ferreira+2022c
 
 https://arxiv.org/abs/2210.01110
