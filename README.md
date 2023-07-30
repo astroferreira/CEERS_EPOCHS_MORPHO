@@ -1,6 +1,7 @@
-# CEERS_MORPHO
-Repository for the visual classifications for the early CEERS and PRIMER observations from Ferreira+2022c
+# CEERS EPOCHS MORPHO
+Repository for the visual classifications for the June CEERS observations based on the EPOCHS reduction pipeline described in:
 
+The JWST Hubble Sequence: The Rest-Frame Optical Evolution of Galaxy Structure at 1.5<z<6.5
 https://arxiv.org/abs/2210.01110
 
 If you use this dataset we kindly ask to reference it as:
