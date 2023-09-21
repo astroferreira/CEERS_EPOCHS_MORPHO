@@ -4,6 +4,8 @@ Repository for the visual classifications for the June CEERS observations based 
 The JWST Hubble Sequence: The Rest-Frame Optical Evolution of Galaxy Structure at 1.5<z<6.5
 https://arxiv.org/abs/2210.01110
 
+![!example](EGS26205.png)
+
 ## Visual Classifications Catalog in ``aggregated_classifications.csv`` file
  
  See FIG 2 in the paper for more details.
