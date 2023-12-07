@@ -27,20 +27,22 @@ Non-parametric morphologies, Sersic profiles, Sizes and other quantitative estim
 
 If you use this dataset we kindly ask to reference it as:
 
-`@ARTICLE{2022arXiv221001110F,
+`@ARTICLE{2023ApJ...955...94F,
        author = {{Ferreira}, Leonardo and {Conselice}, Christopher J. and {Sazonova}, Elizaveta and {Ferrari}, Fabricio and {Caruana}, Joseph and {Tohill}, Cl{\'a}r-Br{\'\i}d and {Lucatelli}, Geferson and {Adams}, Nathan and {Irodotou}, Dimitrios and {Marshall}, Madeline A. and {Roper}, Will J. and {Lovell}, Christopher C. and {Verma}, Aprajita and {Austin}, Duncan and {Trussler}, James and {Wilkins}, Stephen M.},
-        title = "{The JWST Hubble Sequence: The Rest-Frame Optical Evolution of Galaxy Structure at $1.5 < z < 8$}",
-      journal = {arXiv e-prints},
-     keywords = {Astrophysics - Astrophysics of Galaxies},
-         year = 2022,
+        title = "{The JWST Hubble Sequence: The Rest-frame Optical Evolution of Galaxy Structure at 1.5 < z < 6.5}",
+      journal = {\apj},
+     keywords = {Galaxy classification systems, 582, Astrophysics - Astrophysics of Galaxies},
+         year = 2023,
         month = oct,
-          eid = {arXiv:2210.01110},
-        pages = {arXiv:2210.01110},
-          doi = {10.48550/arXiv.2210.01110},
+       volume = {955},
+       number = {2},
+          eid = {94},
+        pages = {94},
+          doi = {10.3847/1538-4357/acec76},
 archivePrefix = {arXiv},
        eprint = {2210.01110},
  primaryClass = {astro-ph.GA},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv221001110F},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023ApJ...955...94F},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 `
